@@ -1,0 +1,111 @@
+.Nord{
+    position: fixed;
+
+}
+.temp{
+    position: fixed;
+}
+.temp:nth-of-type(1){
+    left: 50%;
+    top: 60px;
+}
+.temp:nth-of-type(2){
+    left: 50%;
+    top: 90vh;
+}
+.temp:nth-of-type(3){
+    left: 70%;
+    top: 50vh;
+}
+.temp:nth-of-type(4){
+    left: 30%;
+    top: 50vh;
+}
+
+
+.Nord:nth-of-type(1){
+    left: 50%;
+    top: 80px;
+}
+.Nord:nth-of-type(2){
+    left: 55%;
+    top: 140px;
+}
+.Nord:nth-of-type(3){
+    left: 45%;
+    top: 160px;
+}
+.Nord:nth-of-type(4){
+    left: 50%;
+    top: 169px;
+}
+
+
+.Est:nth-of-type(1){
+    left: 50%;
+    top: 80px;
+}
+.Est:nth-of-type(2){
+    left: 55%;
+    top: 140px;
+}
+.Est:nth-of-type(3){
+    left: 45%;
+    top: 160px;
+}
+.Est:nth-of-type(4){
+    left: 50%;
+    top: 169px;
+}
+
+
+
+
+
+.Ouest:nth-of-type(1){
+    left: 50%;
+    top: 80px;
+}
+.Ouest:nth-of-type(2){
+    left: 55%;
+    top: 140px;
+}
+.Ouest:nth-of-type(3){
+    left: 45%;
+    top: 160px;
+}
+.Ouest:nth-of-type(4){
+    left: 50%;
+    top: 169px;
+}
+
+
+
+
+.Sud:nth-of-type(1){
+    left: 50%;
+    top: 80px;
+}
+.Sud:nth-of-type(2){
+    left: 55%;
+    top: 140px;
+}
+.Sud:nth-of-type(3){
+    left: 45%;
+    top: 160px;
+}
+.Sud:nth-of-type(4){
+    left: 50%;
+    top: 169px;
+}
+
+
+img{
+    display: block;
+    margin: auto;
+    height: calc(100vh - 80px) ;
+}
+
+footer{
+
+}
